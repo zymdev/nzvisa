@@ -47,7 +47,7 @@ Results-driven Senior Software Development Manager with 14+ years of proven expe
 - **Implemented smart office automation solutions** using AMX technology for BHP Billiton Singapore, covering video conferencing, meeting rooms, and lighting control systems
 - **Successfully deployed central control system** for large-scale meeting facilities using Crestron technology, supporting nine interconnected rooms with multiple operational modes for corporate events
 ### **Nikko Computer Systems (S) Pte Ltd, Singapore**
-#### **Software Engineer** | *June 2010 - October 2010*
+#### **Programmer** | *June 2010 - October 2010*
 - **Designed and developed ERP software system** utilising Infor ERP Syteline framework, delivering comprehensive business process automation
 - **Created customised reporting solutions** using Crystal Reports XI and SQL Server 2008, enhancing data visualisation and analytics capabilities for diverse client requirements
 
