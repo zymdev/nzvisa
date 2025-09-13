@@ -1,0 +1,34 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Desktop.ini
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Personal/sensitive information
+*.pdf
+*.doc
+*.docx
+personal-info/
+private/
+
+# Backup files
+*.bak
+*.backup
