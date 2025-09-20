@@ -31,21 +31,11 @@ We moved here when our family expanded. Utility bills from this period show both
 **2017 – Present:** 139 Pasir Ris Street 11, #07-195, Singapore 510139  
 We have been living at our current address since 2017. We have comprehensive evidence of our shared residence here including:
 
-- **Tenancy agreements** showing both our names
-- **HDB resident list** exported from Singapore government website showing our family
 - **Utility bills** from 2017 to present at our current address
+- **HDB resident list** exported from Singapore government website showing our family
 - **UOB joint bank account** statements showing both names and current address
 
-As the main income earner for our family, I manage all household expenses through our joint bank account. We make joint decisions regarding our housing and family living arrangements. Our daily life is fully integrated as a family unit, with shared household management, childcare responsibilities, and family planning decisions.
-
-## Supporting documents attached
-
-1. **Tenancy agreements** with both names at current address
-2. **Utility bills** from all three addresses showing residence at each location
-3. **HDB resident list** from Singapore government website confirming family residence
-4. **UOB joint bank account statements** showing both names and current address
-
-This evidence demonstrates continuous cohabitation for more than 10 years since our marriage.
+This evidence demonstrates continuous cohabitation for more than 10 years since our marriage, showing our genuine and stable partnership through consistent shared living arrangements at all three residential addresses.
 
 **Yours sincerely,**
 

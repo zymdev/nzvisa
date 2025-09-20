@@ -28,7 +28,9 @@ We maintain a joint UOB bank account in Singapore where we manage all our househ
 
 Our families in Taunggyi, Myanmar fully recognize and support our marriage. Both of our parents are close to each other and maintain regular contact. They continue to be actively involved in our lives and our children's upbringing through regular communication and visits.
 
-My first cousin Pyay Mon Kyaw, who lives in New Zealand, and my friend Nyein Chan Swe have provided supporting letters confirming our relationship and family commitment.
+My first cousin Pyay Mon Kyaw, who lives in New Zealand, and my close friend Nyein Chan Swe have provided supporting letters confirming our relationship and family commitment. Nyein Chan Swe and I developed a close friendship since we met in Singapore in 2021. During his time in Singapore, we became like family - both of us have two daughters who also became close friends. Our families spent considerable time together, sharing meals, celebrations, and supporting each other through daily life challenges.
+
+In September 2024, Nyein Chan Swe moved to New Zealand and is now residing in Gisborne, which is approximately 5 hours drive from Hamilton where the University of Waikato is located. We maintain regular contact through various communication channels and continue our close friendship. His presence in New Zealand will be invaluable in helping our family settle into the New Zealand community quickly and comfortably during my wife's studies.
 
 ## Long-term planning and assets
 
@@ -45,7 +47,7 @@ Our relationship has been stable and exclusive for over 16 years since we first 
 3. **Joint UOB bank account statements**
 4. **Supporting letters** from family members and friends:
    - Pyay Mon Kyaw (my first cousin, confirming our relationship)
-   - Nyein Chan Swe (my friend, confirming our family commitment)
+   - Nyein Chan Swe (my friend, confirming our relationship)
 5. **Family photographs** taken over the years
 6. **Land ownership documents** with plot images:
    - My wife's 3 plots in Myanmar

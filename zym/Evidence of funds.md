@@ -16,7 +16,7 @@ Profile: https://card.nete2.io/yarmin/
 
 I am writing to provide evidence that I have sufficient funds to support myself in New Zealand as the partner of a student. I have been employed full-time in Singapore for 15 years since 2010, and my current role is Senior Software Development Manager. I am the financial guarantor for my wife, Khin Khaing Zar Thein, whose student visa application is currently in progress.
 
-My financial capacity is demonstrated through readily available savings held in our joint UOB bank account, exceeding SGD 140,000 (approximately NZD 185,000). These funds, which are sourced from my employment income, are more than sufficient to cover my living costs in New Zealand until I commence work, as well as any contingencies and the cost of onward travel. My current role is Senior Software Development Manager, with a gross monthly salary of SGD 7,885 (excluding bonuses).
+My financial capacity is demonstrated through readily available savings held in our joint UOB bank account, exceeding SGD 140,000 (approximately NZD 185,000). These funds, which are sourced from my employment income with a gross monthly salary of SGD 7,885 (excluding bonuses), are more than sufficient to cover my living costs in New Zealand until I commence work, as well as any contingencies and the cost of onward travel.
 
 To evidence these funds and their source, I have attached the following documents:
 
