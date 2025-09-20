@@ -52,7 +52,7 @@ Results-driven Senior Software Development Manager with 14+ years of proven expe
 - **Created customised reporting solutions** using Crystal Reports XI and SQL Server 2008, enhancing data visualisation and analytics capabilities for diverse client requirements
 
 ### **Myanmar Information Technology Pte Ltd, Myanmar**
-#### **Software Engineer** | *April 2009 - March 2010*
+#### **Software Engineer** | *September 2008 - March 2010*
 - **Developed bespoke ERP application** for AquaGib Pte Ltd, Gibraltar, implementing integrated solutions using Sage 200 (UK), Sage Line 50 (UK), and Sage Line 100 (UK) platforms
 - **Delivered end-to-end software solution** encompassing financial management, inventory control, and business process optimisation 
 ## EDUCATION
