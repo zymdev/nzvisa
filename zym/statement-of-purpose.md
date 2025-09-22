@@ -38,7 +38,7 @@ These resources ensure we can support our family's living expenses, children's e
 
 My relationship with Khin Khaing Zar Thein spans 17 years since we first met in May 2008. We maintained a long-distance relationship from 2010-2015 when I moved to Singapore for work, demonstrating our commitment to each other. We married on 3 April 2015 and have lived together continuously in Singapore since then.
 
-Our relationship is supported by two children born in Singapore (2016, 2019), joint financial management through UOB bank account since 2019, continuous cohabitation across three residential addresses in Singapore, family recognition from both families in Myanmar, and supporting letters from family members including my cousin in New Zealand.
+Our relationship is supported by two children born in Singapore (2016, 2019), joint financial management through UOB bank account since 2019, and continuous cohabitation across three residential addresses in Singapore. Both our families in Myanmar fully recognize and support our marriage, and we have supporting letters from my cousin Pyay Mon Kyaw and friend Nyein Chan Swe, who are currently residing in New Zealand.
 
 **Genuine Temporary Intentions**
 

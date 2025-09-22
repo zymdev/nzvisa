@@ -31,7 +31,8 @@ I have submitted the following documents in support of May La Min's application:
 - Evidence of funds demonstrating sufficient financial capacity
 - Letter of explanation for bank transactions
 - Explanation for household registration
-- Birth certificate and family documentation
+- Birth certificate, Singapore student pass, and immunisation history
+- Certificate letter from Park View Primary School, Singapore
 
 As her father and financial guarantor, I will provide full financial support for May La Min's living expenses, education costs, and healthcare needs during our family's stay in New Zealand.
 
@@ -39,5 +40,4 @@ Thank you for your consideration of May La Min's dependent child student visa ap
 
 **Yours sincerely,**
 
-**Zay Yar Min**  
-*(Father and Financial Guarantor)*
+**Zay Yar Min**
