@@ -1,0 +1,7 @@
+
+English
+Database Management System + Management Information System
+Numerical Methods + Dynamic Programming + Application of Queuing Theory
+Artificial Intelligence + Analysis of Algorithm + Operating System
+Software Engineering + Object-Oriented Analysis and Design + Application
+Network and Communication + Object-Oriented Programming with C++ + Java
