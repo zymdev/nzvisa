@@ -1,76 +1,87 @@
-# Evidence of My Situation and Plans
-
 **Applicant:** Khin Khaing Zar Thein  
-**Passport:** MI071193  
-**Date:** 3 December 2025
+**Passport Number:** MI071193  
+**Address:** 139 Pasir Ris Street 11, #07-195, Singapore 510139  
+**Date:** 4 December 2025
 
-This document provides evidence supporting statements in the "Your situation and plans" section (Eligibility page).
+**To:** Visa Officer, New Zealand Immigration  
+**Subject:** Personal Circumstances Evidence - Your Situation and Plans 
 
----
+Dear Sir/Madam,
 
-## EVIDENCE INDEX
+This document provides evidence supporting my responses in the "Your situation and plans" section of the Eligibility page. Key evidence documents are attached below, with cross-references to related evidence provided in other submissions.
 
-### 1. Family, Financial, and Employment Commitments (Question 1)
+## FAMILY, FINANCIAL, AND EMPLOYMENT COMMITMENTS
 
-- **Singapore Dependant Pass** (10 years residence)  
-  Document: Singapore Dependant Pass.pdf | Page: ___
+**My Immigration Status in Singapore:**  
+I have resided in Singapore continuously since June 2015 (10 years) on a Dependant Pass linked to my husband's Employment Pass. Details provided in "Singapore Dependant Pass.pdf".
 
-- **Husband's Employment Pass** (15 years)  
-  Document: Financial guarantor employment and income.pdf | Page: ___
+**Children's Circumstances:**  
+My two daughters were born in Singapore and hold Student Passes valid for their entire primary education (6 years, Primary 1-6). Both have spent their entire lives in Singapore.
 
-- **Certificate of Employment** (NETe2 Asia)  
-  Document: Financial guarantor employment and income.pdf | Page: ___
+- May La Min: Born 26 May 2016 in Singapore, currently Primary 3
+- Kyal Sin Khaing: Born 1 September 2019 in Singapore, will attend Primary 1 in January 2026 (Student Pass recently approved)
 
-- **Children's birth certificates** (Singapore)  
-  Document: Birth certificate.pdf | Page: ___
+**Myanmar Property Holdings:**  
+We maintain property ownership in Myanmar as Myanmar citizens. We own five plots of land in Myanmar (three registered in my name, two in my husband's name) representing our connection to our country of citizenship.
 
-- **Children's Student Passes**  
-  Document: Relationship evidence.pdf | Page: ___
+**Community Integration:**  
+I am an active parent volunteer at Park View Primary School in Singapore, receiving a Certificate of Appreciation in 2023 for my contributions to the school community. I also serve as a volunteer Program Manager at Dr Htar Healthcare and Wellness Pte. Ltd (September 2021 - present), coordinating healthcare programs, developing IT solutions, and managing their mobile app.
 
-- **UOB bank statements** (SGD 140,000+)  
-  Document: Bank Statements.pdf | Page: ___
+**Financial Capacity:**  
+For evidence of financial capacity, employment income, and savings (SGD 140,000+ in joint UOB account), please refer to "Evidence of the Financial Guarantor's Employment and Income.pdf" document.
 
-- **Husband's payslips** (12 months)  
-  Document: Financial guarantor employment and income.pdf | Page: ___
+## RELATION TO PREVIOUS STUDY AND WORK
 
-- **IRAS tax assessments** (2021-2025)  
-  Document: Financial guarantor employment and income.pdf | Page: ___
+**Previous Qualifications:**  
+I hold a Bachelor of Science in Mathematics (2001), Diploma in Computer Science (2004), and Master of Information Science (2009). Full details provided in "Evidence of the previous tertiary education.pdf". My 2009 Master's degree focused on theoretical IT foundations during Myanmar's pre-digital era and lacks modern specializations essential for today's IT industry.
 
-- **Property ownership Myanmar** (5 plots)  
-  Document: Evidence of Family and Financial Commitments.pdf | Page: ___
+**Why I Have Not Worked in IT Since Arriving in Singapore (2015):**  
+When I moved to Singapore in June 2015, I discovered that Singapore's IT sector requires modern technical skills that my 2009 Myanmar qualifications did not provide. My Master of Information Science covered theoretical foundations but lacked practical expertise in contemporary technologies Singapore employers require: cloud platforms (AWS, Azure), modern development frameworks, agile methodologies, and DevOps practices.
 
-- **Certificate of Appreciation** (parent volunteer)  
-  Document: Certificates.pdf | Page: ___
+From 2015-2016, I worked as Administrative Executive at Ye Yint Pte Ltd while preparing for our first daughter's birth (May 2016). Following the births of both daughters (2016 and 2019), I dedicated myself to childcare during their crucial early years (2016-2021). Since September 2021, I have volunteered as Program Manager at Dr Htar Healthcare and Wellness, applying IT knowledge through Excel VBA development and mobile app management, but volunteer work does not constitute paid IT employment.
 
-### 2. Relation to Previous Study and Work (Questions 2-3)
+The Master of Information Technology addresses this gap by providing modern technical competencies and hands-on industry experience (400-hour supervised internship) that Singapore employers require.
 
-- **Previous qualifications** (BSc, Diploma, Master 2009)  
-  Document: Evidence of the previous tertiary education.pdf | Page: ___
+**Gap Between 2009 and 2026 Programs:**  
+The Master of Information Technology (2026) provides critical modern competencies absent from my 2009 degree: cloud computing, cybersecurity, data analytics, software engineering methodologies, and AI/machine learning.
 
-- **Curriculum comparison** (2009 vs 2026)  
-  Document: 27 Study Plan and Details of Intended Subjects | Page: ___
+**Previous Employment:**  
+Full employment details provided in "Evidence of employment and income.pdf".
 
-- **Previous employment documentation**  
-  Document: Evidence of your previous employment.pdf | Page: ___
+## POST-STUDY PLANS
 
-### 3. Post-Study Plans (Question 7)
+**Return to Singapore:**  
+Upon completing my degree in February 2027, I will return to Singapore where my family resides. My immediate obligations include supporting my children's education (both attending Singapore primary schools), reuniting with my husband who will continue his employment at NETe2 Asia, and returning to our family residence at 139 Pasir Ris Street 11.
 
-- **Children's Student Passes** (PSLE 2028 timeline)  
-  Document: Relationship evidence.pdf | Page: ___
+**Career Plans:**  
+With modern IT qualifications, I will pursue career opportunities in Singapore's technology sector in roles such as Application Developer, Cloud Engineer, Software Engineer, or Cyber Security Analyst. According to MyCareersFuture.gov.sg (December 2025), professionals with these competencies earn SGD 5,000-9,000 monthly.
 
-- **Husband's Certificate of Employment**  
-  Document: Financial guarantor employment and income.pdf | Page: ___
+**Connection to Myanmar:**  
+As Myanmar citizens, we maintain our connection to Myanmar through property ownership (five plots of land) and family relationships. My parents and most of my siblings reside in Myanmar, and we visit to maintain these family ties. Travel history provided in "Travel History.pdf".
 
-- **Travel history** (limited Myanmar visits)  
-  Document: Travel History.pdf | Page: ___
+## SUPPORTING DOCUMENTS ATTACHED
 
-- **Singapore IT market salary data**  
-  Document: MyCareersFuture.gov.sg research (Dec 2025) | Attached
+1. My Singapore Dependant Pass (June 2015 - present)
+2. Children's birth certificates (both born in Singapore)
+3. Children's Student Passes (valid for Primary 1-6)
+4. Myanmar property ownership certificates (5 plots with English translations)
+5. Certificate of Appreciation - Park View Primary School (2023)
+6. Family photographs (Myanmar heritage connection)
 
-- **Family photographs Myanmar**  
-  Document: Evidence of Family and Financial Commitments.pdf | Page: ___
+**Cross-Referenced Evidence:**
 
----
+- Previous academic qualifications: See "Evidence of the previous tertiary education.pdf"
+- Previous employment: See "Evidence of employment and income.pdf"
+- Travel history: See "Travel History.pdf"
+- Partner's employment and financial capacity: See "Evidence of the Financial Guarantor's Employment and Income"
+- Detailed post-study plans: See "Statement of Purpose"
 
-**Submitted by:** Khin Khaing Zar Thein  
-**Date:** 3 December 2025
+**Khin Khaing Zar Thein**  
+4 December 2025
+
+________________
+
+
+## ATTACHED SUPPORTING DOCUMENTS
+
+The following pages contain the referenced evidence documents:
