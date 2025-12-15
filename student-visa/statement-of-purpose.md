@@ -3,7 +3,7 @@ PO Box 76895
 Manukau 2241  
 Auckland  
 
-05 December 2025
+15 December 2025
 
 Dear Immigration Officer,
 
@@ -17,11 +17,11 @@ I am married to Zay Yar Min, who is currently employed as a Senior Software Deve
 
 Both children are currently studying in Singapore. May La Min holds a student pass and will be attending Primary 4 next year. Kyal Sin Khaing will be attending Primary 1 next year, and her student pass has recently been approved.
 
-Singapore has become our family's second home. My husband has worked there continuously since 2010 (15 years), and our entire family life - from our daughters' births to their education and social development - is deeply rooted in Singapore. We maintain our primary residence at 139 Pasir Ris Street 11, #07-195, Singapore 510139, as documented in "Evidence of my situation and plans.pdf".
+Singapore has become our family's second home. My husband has worked there continuously since 2010 (15 years), and our entire family life - from our daughters' births to their education and social development - is deeply rooted in Singapore. We maintain our primary residence at 139 Pasir Ris Street 11, #07-195, Singapore 510139. Additionally, one of my siblings is also working in Singapore, further strengthening our family connections there. Evidence of my children's Student Passes and Letters of Certification from their primary schools are provided in "Evidence of my situation and plans.pdf".
 
 Our Family's Immigration Status in Singapore
 
-My Husband (Financial Guarantor): Yar Min holds a Singapore Employment Pass linked to his employment at NETe2 Asia since October 2010. His Employment Pass has been continuously renewed for 15 years and remains valid. Complete documentation including Certificate of Employment, 12 months of payslips, and five years of tax assessment documents (IRAS Notices of Assessment 2021-2025) are provided in "Financial guarantor employment and income.pdf".
+My Husband (Financial Guarantor): Zay Yar Min holds a Singapore Employment Pass linked to his employment at NETe2 Asia since October 2010. His Employment Pass has been continuously renewed for 15 years and remains valid. Complete documentation including Certificate of Employment, 12 months of payslips, and five years of tax assessment documents (IRAS Notices of Assessment 2021-2025) are provided in "Evidence of the Financial Guarantor Employment and Income.pdf".
 
 Myself (Applicant): I hold a Singapore Dependant Pass linked to my husband's Employment Pass, continuously renewed since June 2015 (10 years). Documentation is provided in "Singapore Dependant Pass.pdf".
 
@@ -33,7 +33,6 @@ PREVIOUS STUDIES, EMPLOYMENT, AND QUALIFICATIONS
 
 My Academic Background
 
-
 - Bachelor of Science in Mathematics (2002-2005) from the University of Taunggyi, Myanmar
 - Diploma in Computer Science (2005-2006) from the University of Computer Studies, Mandalay, Myanmar
 - Master of Information Science (2007-2009) from the University of Computer Studies, Mandalay, Myanmar
@@ -42,18 +41,18 @@ My first master's thesis focused on developing a Web-Based Intelligent Tutoring 
 
 My Work Experience
 
-- IT Trainer, Myan Yu Computer Training, Taunggyi, Myanmar (January 2010 - February 2015)
+- Owner/IT Trainer, Myan Yu Computer Training, Taunggyi, Myanmar (January 2010 - February 2015)
 - Administrative Executive, Ye Yint Pte. Ltd, Singapore (June 2015 - March 2016)
 - Career Break for Childcare (2016 - 2021)
 - Program Manager (Volunteer), Dr Htar Healthcare and Wellness Pte. Ltd, Singapore (September 2021 - Present)
 
-Full employment details and supporting documents are provided in "Evidence of employment and income.pdf".
+Full employment details and supporting documents are provided in "Evidence of my previous employment.pdf".
 
 Why I Have Not Worked in Paid IT Roles Since Moving to Singapore
 
-When I relocated to Singapore in June 2015 following my husband's established employment, I immediately encountered a significant challenge: my Myanmar IT qualifications and teaching experience did not meet Singapore's competitive IT industry requirements.
+When I relocated to Singapore in June 2015 following my husband's established employment, I immediately encountered a significant challenge: my Myanmar IT qualifications and IT training business experience did not meet Singapore's competitive software engineering industry requirements.
 
-Singapore's technology sector demands current, practical expertise in modern frameworks and industry-standard tools. My 2009 Master of Information Science provided theoretical foundations but lacked the hands-on experience with contemporary technologies that Singapore employers require. IT positions I explored required demonstrated expertise in cloud platforms (AWS, Azure), modern development frameworks, agile methodologies, and industry certifications - none of which were part of my 2009 curriculum.
+Singapore's technology sector demands current, practical expertise in modern frameworks and industry-standard tools. My 2009 Master of Information Science provided theoretical foundations but lacked the hands-on experience with contemporary technologies that Singapore employers require. Software engineering positions I explored required demonstrated expertise in cloud platforms (AWS, Azure), modern development frameworks, agile methodologies, and industry certifications - none of which were part of my 2009 curriculum or IT training business experience.
 
 From June 2015 to March 2016, I worked as Administrative Executive at Ye Yint Pte Ltd while adjusting to life in Singapore and preparing for our first daughter's birth. Following her birth in May 2016 and our second daughter's birth in September 2019, I focused on childcare during their crucial early years (2016-2021).
 
@@ -102,11 +101,13 @@ My 2009 curriculum focused on traditional computer science theory. The proposed 
 
 Singapore's employers require current, industry-relevant qualifications. My 2009 master's degree, while providing valuable foundation, does not meet the technical requirements for mid-to-senior IT positions in today's competitive job market.
 
+New Zealand's education system offers a distinct practical, industry-focused approach that differs significantly from my previous theoretical Myanmar education. The University of Waikato's programme emphasizes hands-on application, real-world problem-solving, and workplace readiness through its 400-hour supervised internship - exactly what I need to transition from IT training business ownership to software engineering employment in Singapore.
+
 How This Degree Aligns With My Career Goals
 
-I have chosen the University of Waikato's 180-point Master of Information Technology program because it combines advanced coursework with a structured 400-hour credit-bearing internship supervised by industry mentors and academic staff. This unique feature provides the practical, hands-on experience I need to update my professional skills and regain confidence after my career break. The program can be completed in 12 months through the February 2026 intake, allowing me to return to Singapore promptly in February 2027 without extended separation from my family or disruption to my children's education.
+I have chosen the University of Waikato's 180-point Master of Information Technology program because it combines advanced coursework with a structured 400-hour credit-bearing internship supervised by industry mentors and academic staff. This unique feature provides the practical, hands-on experience I need to update my professional skills and regain confidence after my career break. The program can be completed in 12 months through the February 2026 intake, allowing me to return to Singapore promptly in February 2027 without extended separation from my family or disruption to my children's education. A detailed study plan showing how each course supports my Singapore career goals is provided in "Study Plan and Details of Intended Subjects.pdf".
 
-New Zealand offers high-quality, internationally recognized education with a supportive learning environment that emphasizes practical, applied learning and real-world problem-solving - exactly what I need to transition from volunteer work to paid senior technical positions in Singapore's thriving IT sector. With this qualification, I will gain the knowledge, practical skills, and professional credentials necessary to contribute meaningfully to enterprise-level projects, work alongside my husband in the technology industry, and establish a strong professional reputation.
+New Zealand offers high-quality, internationally recognized education with a supportive learning environment that emphasizes practical, applied learning and real-world problem-solving - exactly what I need to transition from volunteer work to paid senior technical positions in Singapore's thriving IT sector. Singapore's Master of IT programs do not offer the same credit-bearing 400-hour supervised internship component that is essential for my career re-entry after an extended career break. With this qualification, I will gain the knowledge, practical skills, and professional credentials necessary to contribute meaningfully to enterprise-level projects, work alongside my husband in the technology industry, and establish a strong professional reputation.
 
 FINANCIAL CAPACITY
 
@@ -121,7 +122,7 @@ Detailed Financial Evidence
 I am providing the following financial documents to demonstrate our capacity:
 
 - "Bank Statements.pdf" - Joint bank statements showing savings of over SGD 140,000 (approximately NZD 180,000)
-- "Financial guarantor employment and income.pdf" - My husband's Certificate of Employment, 12 months of payslips, and IRAS tax assessment documents (Notices of Assessment 2021-2025)
+- "Evidence of the Financial Guarantor Employment and Income.pdf" - My husband's Certificate of Employment, Employment Pass, 12 months of payslips, and IRAS tax assessment documents (Notices of Assessment 2021-2025)
 - "Evidence of my situation and plans.pdf" - Family commitments, property ownership, community involvement, and post-study career plans
 
 Our available funds of SGD 140,000 (approximately NZD 180,000) ensure I will have sufficient financial resources throughout my studies without requiring employment or external support.
@@ -166,11 +167,16 @@ With my updated qualifications, I can pursue meaningful IT career opportunities 
 
 Phase 2: Long-Term Return to Myanmar
 
-As Myanmar citizens, my husband and I maintain meaningful connections to our home country, though our immediate and medium-term life is firmly established in Singapore.
+As Myanmar citizens, my husband and I maintain strong connections to our home country, though our immediate and medium-term life is firmly established in Singapore.
 
-We own five plots of land in Myanmar (three registered in my name, two in my husband's name) representing significant financial assets and long-term investments. Both our parents and extended families reside in Myanmar. We visit regularly to maintain family relationships and ensure our children understand their cultural heritage. We celebrate Myanmar traditions as part of our family identity.
+**Family Ties in Myanmar:**
+Both our parents reside in Myanmar. I have four siblings in total: one is working in Singapore (strengthening our Singapore ties), and three remain in Myanmar. My father, Khin Maung Thein, operates Myan Yu Cargo Terminal, a licensed private cargo terminal business in Taunggyi Township. Evidence of my father's business license, family household registration, and family photos are provided in "Evidence of my situation and plans.pdf".
 
-My long-term plan is to return to Myanmar in the distant future (5-10+ years), after my children independently continue their education in Singapore, and Myanmar's economic and political situation stabilizes to support sustainable business opportunities.
+**Property Ownership in Myanmar:**
+We own five plots of land in Myanmar (three registered in my name, two in my husband's name) with an estimated current combined value exceeding SGD 190,000. These represent significant financial assets and long-term investments in our home country.
+
+**Long-Term Plans:**
+We visit Myanmar regularly to maintain family relationships and ensure our children understand their cultural heritage. We celebrate Myanmar traditions as part of our family identity. My long-term plan is to return to Myanmar in the distant future (5-10+ years), after my children complete their education in Singapore, and Myanmar's economic and political situation stabilizes to support sustainable business opportunities. My family's business in Myanmar provides a foundation for potential future involvement.
 
 ASSURANCE AND COMMITMENT TO RETURNING TO SINGAPORE
 
